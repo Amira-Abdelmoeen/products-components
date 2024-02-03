@@ -1,0 +1,19 @@
+.home{
+    background-image: url(../../../assets/images/happy-woman.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    color: orange;
+    font-size: 77px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+ 
+    font-size: 60px;
+
+    
+}
